@@ -14,3 +14,8 @@ A tool that allows you to build native cross-platform (Android, iOS, Web, Deskto
 - Similar to native perfromance
 - Own rendering engine
 - Simple platform specific logic implementation
+
+## Flutter Architecture
+UI as code: Widget Tree - It's all about widgets
+Embrace: Platform Differences
+One: Codebase
