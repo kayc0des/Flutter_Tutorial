@@ -18,7 +18,7 @@ This folder contains the android specific settings, resources and code. If you n
 
 
 ## build 
-The build folder contains the output generated when you build or run the flutter project . All related files and folders will be found in here like apks 
+The build folder contains the output generated when you build or run the flutter project. All related files and folders will be found in here like apks 
 
 ## iOS
 Similar to android folder, this folder contains iOS specific settings, resources and code 
@@ -40,8 +40,8 @@ This file contains the flutter project related metadata that flutter tool uses.
 Flutter projects are composed of numerous libraries and packages. some packages are preinstalled with flutter while others are downloaded during development. So this file holds paths to each of the libs/packages in your local computer 
 
 ## pubspec.lock 
-This file is a helper file created next to pubspec.yaml 
-It lost the specific versions of each dependency that packages use in your app so that the version stays consistent across different developers machine
+This file is a helper file created next to pubspec.yaml. 
+It lists the specific versions of each dependency that packages use in your app so that the version stays consistent across different developers machine
 
 ## pubspec.yaml 
 Contains flutter app specific metadata and configurations. With this file you can configure dependencies such as external packages, image assets, font files, app versions etc. You will often make changes to add external dependencies 
